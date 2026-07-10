@@ -1,0 +1,3 @@
+- [ ] Run `prisma migrate dev --name init --create-only` using the correct schema: `database/prisma/schema.prisma`
+- [ ] Ensure command runs from `backend/` with `DATABASE_URL` set
+- [ ] Verify migration files are generated under `database/prisma/migrations/` (or the schema’s migrations path)
