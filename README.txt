@@ -1,4 +1,7 @@
+
+project_npx prisma migrate dev --name init_no error
 # Full-Stack E-Commerce Platform
+
 
 ## Technologies
 - Backend: Node.js, Express, Prisma, PostgreSQL
