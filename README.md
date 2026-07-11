@@ -1,3 +1,5 @@
+
+products some how working
 # Project 1
 
 ## Setup Instructions
